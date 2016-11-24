@@ -12,4 +12,9 @@
 1. [Bit Facts and Tricks ](./note/java/BitFactsAndTricks.md)
 
 
+#### Express Yourself
+1. [useful expression] (./note/UsefulExpression.md)
+
+
+
 
