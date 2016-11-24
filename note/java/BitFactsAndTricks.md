@@ -6,6 +6,7 @@ following expression is useful in bit manipulation. We use "1s" and "0s" to indi
 - x^x = 0s
 - x^0s = x
 - x^1s = ~x
+- x^~x = 1s
 
 - x|0s = x
 - x|1s = 1s
