@@ -17,7 +17,7 @@ following expression is useful in bit manipulation. We use "1s" and "0s" to indi
 
 
 PS.  
--'^' means difference set 1 or set 0
--'&' means AND 
--'~' means reverse all bits
--'|' means OR 
+- '^' means difference set 1 or set 0
+- '&' means AND 
+- '~' means reverse all bits
+- '|' means OR 
