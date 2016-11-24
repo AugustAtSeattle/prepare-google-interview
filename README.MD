@@ -9,7 +9,7 @@
 
 
 ##### Bit Manipulation
-5. [Bit Facts and Tricks ](./note/java/BitFactsAndTricks.md)
+1. [Bit Facts and Tricks ](./note/java/BitFactsAndTricks.md)
 
 
 
