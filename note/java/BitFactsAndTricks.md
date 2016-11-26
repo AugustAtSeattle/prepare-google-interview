@@ -22,3 +22,9 @@ PS.
 - '&' means AND 
 - '~' means reverse all bits
 - '|' means OR 
+
+
+##### Arithmetic vs Logical Right Shift
+
+- Arithmetic Shift >> fill the second most right bit with the value of the sign bit.
+- Logical Right Shift >>> fill the most right bit with 0. 
