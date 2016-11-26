@@ -16,7 +16,7 @@
 1. [Basic Java Question] (./note/BasicJavaQuestion.md)
 
 #### Express Yourself
-1. [useful expression] (./note/UsefulExpression.md)
+1. [Useful Expression] (./note/UsefulExpression.md)
 
 
 
