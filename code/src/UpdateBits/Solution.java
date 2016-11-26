@@ -23,9 +23,7 @@ package UpdateBits;
 //You would not, for example, have j=3 and i=2,
 //because M could not fully fit between bit 3 and bit 2.
 
-// Step 1. clear the bits j through i in N.
-// Step 2. shift M so that it lines up with bits j through i.
-// Step 3. Merge M and N.
+
 public class Solution {
 
 	public static void main(String[] args) {
@@ -33,7 +31,9 @@ public class Solution {
 
 	}
 	
-	
+	// Step 1. clear the bits j through i in N.
+	// Step 2. shift M so that it lines up with bits j through i.
+	// Step 3. Merge M and N.
 	int insertBits(int M, int N, int i, int j){
 		
 		//Step1
