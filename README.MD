@@ -14,6 +14,7 @@
 
 #### Java
 1. [Basic Java Question] (./note/BasicJavaQuestion.md)
+2. [Code: UpdateBits] (./code/src/UpdateBits/Solution.java)
 
 #### Express Yourself
 1. [Useful Expression] (./note/UsefulExpression.md)
