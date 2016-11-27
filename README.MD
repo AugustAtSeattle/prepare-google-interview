@@ -15,13 +15,9 @@
 4. [Code: Double Binary Representation] (./code/src/DoubleBinaryRepresentation/Solution.java)
 
 
-
-
-code/src/FlipBitToWin/
-
 #### Java
 1. [Basic Java Question] (./note/BasicJavaQuestion.md)
-
+2. Threads and Locks
 
 #### Express Yourself
 1. [Useful Expression] (./note/UsefulExpression.md)
