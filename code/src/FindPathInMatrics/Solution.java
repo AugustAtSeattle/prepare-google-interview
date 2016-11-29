@@ -26,7 +26,7 @@ public class Solution {
 	private void dfs(int[][] matrix, int m, int n, int i, int j, List<List<Integer>> list, List<Integer> subList, int direction) {
 
 		
-		if( i < 0 || i >= m || j <0 || j >= n  ) return ;
+		if( i < 0 || i >= m || j <0 || j >= n  || subList.size() >= 3) return ;
 	    
 		subList.add(matrix[i][j]);
 	    
@@ -43,4 +43,19 @@ public class Solution {
 		subList.remove(subList.size() - 1);
 		
 	}
+	
+	public static void main(String args[]) {
+
+		int[][] matrix = new int[][] { { 1, 2, 3 }, 			{ 4, 5, 6 }, 			{ 7, 8, 9 }};		
+		Solution solution = new Solution();	
+		List<List<Integer>> res = solution.findPathLengthThree(matrix);	
+		for(List<Integer>list : res){
+			for(int num : list){
+				System.out.println(num);
+			}
+		}
+	}
+
+	
+	
 }
