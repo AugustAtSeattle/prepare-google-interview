@@ -10,11 +10,14 @@
 
 ##### Bit Manipulation
 1. [Bit Facts and Tricks ](./note/java/BitFactsAndTricks.md)
+2. [Code: UpdateBits] (./code/src/UpdateBits/Solution.java)
+3. [Code: Flip Bit To Win] (./code/src/FlipBitToWin/Solution.java)
+4. [Code: Double Binary Representation] (./code/src/DoubleBinaryRepresentation/Solution.java)
 
 
 #### Java
 1. [Basic Java Question] (./note/BasicJavaQuestion.md)
-2. [Code: UpdateBits] (./code/src/UpdateBits/Solution.java)
+2. Threads and Locks
 
 #### Express Yourself
 1. [Useful Expression] (./note/UsefulExpression.md)
