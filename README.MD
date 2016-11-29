@@ -4,7 +4,7 @@
 <br/>(ps. efficient means doing things right, effective means doing right things).
 - For story. I would like to tell a story. Hey folks, I have done these before, even I fail, but so much fun.
  
-
+#### Big O
 #### Technical Interview
 ##### Arrays and Strings
 1. [Basic] (./note/java/ArraysStringsBasic.md)
