@@ -14,6 +14,11 @@
 3. [Code: Flip Bit To Win] (./code/src/FlipBitToWin/Solution.java)
 4. [Code: Double Binary Representation] (./code/src/DoubleBinaryRepresentation/Solution.java)
 
+##### Depth-first search (DFS) 
+1. [Code: Flip Bit To Win] (./code/src/FindPathInMatrics/Solution.java)
+
+##### Matrics
+1. [Code: Flip Bit To Win] (./code/src/FindPathInMatrics/Solution.java)
 
 #### Java
 1. [Basic Java Question] (./note/BasicJavaQuestion.md)
