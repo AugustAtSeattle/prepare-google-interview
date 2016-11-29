@@ -14,7 +14,7 @@ public class Solution {
 			for(int j = 0 ; j < n ; j++){
 				List<Integer> subList =  new LinkedList<Integer>();
 
-				dfs(matrix, m, n, i, j, list, subList);
+				dfs(matrix, m, n, i, j, list, subList , 0);
 			}
 		}
 		
@@ -23,10 +23,10 @@ public class Solution {
 
 	}
 
-	private void dfs(int[][] matrix, int m, int n, int i, int j, List<List<Integer>> list, List<Integer> subList) {
+	private void dfs(int[][] matrix, int m, int n, int i, int j, List<List<Integer>> list, List<Integer> subList, int direction) {
 
 		
-		if( i < 0 || i > m || j <0 || j > 0 ) return ;
+		if( i < 0 || i >= m || j <0 || j >= n  ) return ;
 	    
 		subList.add(matrix[i][j]);
 	    
@@ -35,12 +35,12 @@ public class Solution {
 			return;
 		}
 		
-		dfs(matrix, m, n, i - 1, j, list, subList);
-		dfs(matrix, m, n, i + 1, j, list, subList);
-		dfs(matrix, m, n, i, j - 1, list, subList);
-		dfs(matrix, m, n, i, j + 1, list, subList);
+		if (direction != 2) dfs(matrix, m, n, i - 1, j, list, subList, 1);
+		if (direction != 1) dfs(matrix, m, n, i + 1, j, list, subList, 2);
+		if (direction != 4) dfs(matrix, m, n, i, j - 1, list, subList, 3);
+		if (direction != 3) dfs(matrix, m, n, i, j + 1, list, subList, 4);
 		
-		list.remove(list.size() - 1);
+		subList.remove(subList.size() - 1);
 		
 	}
 }
