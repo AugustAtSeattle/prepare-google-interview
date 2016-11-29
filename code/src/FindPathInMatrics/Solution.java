@@ -32,6 +32,7 @@ public class Solution {
 	    
 		if(subList.size() == 3) {
 			list.add(new LinkedList<Integer>(subList));
+			subList.remove(subList.size() - 1);
 			return;
 		}
 		
@@ -46,13 +47,14 @@ public class Solution {
 	
 	public static void main(String args[]) {
 
-		int[][] matrix = new int[][] { { 1, 2, 3 }, 			{ 4, 5, 6 }, 			{ 7, 8, 9 }};		
+		int[][] matrix = new int[][] { { 1, 2 }, 			{ 3, 4}};		
 		Solution solution = new Solution();	
 		List<List<Integer>> res = solution.findPathLengthThree(matrix);	
 		for(List<Integer>list : res){
 			for(int num : list){
 				System.out.println(num);
 			}
+			System.out.println("***************");
 		}
 	}
 
