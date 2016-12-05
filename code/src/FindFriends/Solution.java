@@ -2,6 +2,8 @@ package FindFriends;
 
 import java.util.*;
 import java.io.*;
+// on facebook every user had friends, the relationship between friends had weight. 
+// find all friends of user whose range of weight between x and y
 
 class User {
 	public User(String string) {
@@ -16,6 +18,9 @@ class User {
 	}
 }
  
+
+
+// Using Dijktra's Algorithm
 public class Solution {
 	 
     // Dijkstra's algorithm to find shortest path from s to all other nodes
