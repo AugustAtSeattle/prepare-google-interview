@@ -43,7 +43,6 @@ public class Solution {
         	   }
            }
            if(next == null) break;
-           System.out.println(next.name);
            visited.add(next);
            
            for(int i = 0; i < next.friends.size(); i++){
@@ -59,7 +58,12 @@ public class Solution {
        }
        
        for(Map.Entry<User, Integer> entry: dist.entrySet()){
-    	   if(entry.getValue() > distThreshold && distThreshold < sumWeightThreshold){
+    	   
+//    	   System.out.println(entry.getKey().name);
+//    	   System.out.println(entry.getValue());
+//    	   System.out.println();
+    	   
+    	   if(entry.getValue() > distThreshold && entry.getValue() < sumWeightThreshold){
     		   result.add(entry.getKey());
     	   }
        }
@@ -87,8 +91,8 @@ public class Solution {
 		add(f, g, 5);
 		add(g, h, 8);
 //		test(a, 2, 7);
-//		test(a, 3, 7);
-		test(a, 3, 5);
+		test(a, 3, 7);
+//		test(a, 3, 5);
 	}
 
 
