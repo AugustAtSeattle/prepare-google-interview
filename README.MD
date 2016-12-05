@@ -30,6 +30,7 @@
 3. [Code: Minimal Tree] (./code/src/MinimalTree/Solution.java)
 4. [Code: List of Depths] (./code/src/ListOfDepth/Solution.java)
 5. [Code: Find Friends] (./code/src/FindFriends/Solution.java)
+
 ##### Bit Manipulation
 1. [Bit Facts and Tricks ](./note/java/BitFactsAndTricks.md)
 2. [Code: UpdateBits] (./code/src/UpdateBits/Solution.java)
