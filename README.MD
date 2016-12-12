@@ -29,7 +29,11 @@
 2. [Code: Route Between Nodes] (./code/src/RouteBetweenNodes/Solution.java)
 3. [Code: Minimal Tree] (./code/src/MinimalTree/Solution.java)
 4. [Code: List of Depths] (./code/src/ListOfDepth/Solution.java)
-5. [Code: Find Friends] (./code/src/FindFriends/Solution.java)
+5. [Code: Check Balanced] (./code/src/CheckBalanced/Solution.java)
+6. [Code: Validate BST] (./code/src/ValidateBST/Solution.java)
+7. [Code: Successor] (./code/src/Successor/Solution.java)
+8. [Code: Build Order] (./code/src/BuildOrder/Solution.java)
+9. [Code: Find Friends] (./code/src/FindFriends/Solution.java)
 
 ##### Bit Manipulation
 1. [Bit Facts and Tricks ](./note/java/BitFactsAndTricks.md)
