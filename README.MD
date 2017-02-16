@@ -12,7 +12,8 @@
 3. [Code: Check Permutation] (./code/src/CheckPermutation/Solution.java)
 4. [Code: URLify] (./code/src/URLify/Solution.java)
 5. [Code: 3Sum] (./code/src/ThreeSum/Solution.java)
-6. [Code: Longest Palindromic Substring] (./code/src/LongestPalindromicSubstring/Solution.java)
+6. [Code: 3 Sum Closest] (./code/src/ThreeSumClosest/Solution.java)
+7. [Code: Longest Palindromic Substring] (./code/src/LongestPalindromicSubstring/Solution.java)
 
 ##### Linked Lists
 1. [Basic] (./note/java/LinkedListsBasic.md)
