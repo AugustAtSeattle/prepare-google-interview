@@ -11,7 +11,8 @@
 2. [Code: is Unique] (./code/src/IsUnique/Solution.java)
 3. [Code: Check Permutation] (./code/src/CheckPermutation/Solution.java)
 4. [Code: URLify] (./code/src/URLify/Solution.java)
-4. [Code: 3Sum] (./code/src/ThreeSum/Solution.java)
+5. [Code: 3Sum] (./code/src/ThreeSum/Solution.java)
+6. [Code: Longest Palindromic Substring] (./code/src/LongestPalindromicSubstring/Solution.java)
 
 ##### Linked Lists
 1. [Basic] (./note/java/LinkedListsBasic.md)
