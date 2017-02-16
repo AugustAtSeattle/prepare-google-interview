@@ -14,6 +14,7 @@
 5. [Code: 3Sum] (./code/src/ThreeSum/Solution.java)
 6. [Code: 3 Sum Closest] (./code/src/ThreeSumClosest/Solution.java)
 7. [Code: Longest Palindromic Substring] (./code/src/LongestPalindromicSubstring/Solution.java)
+8. [Code: Container With Most Water] (./code/src/ContainerWithMostWater/Solution.java)
 
 ##### Linked Lists
 1. [Basic] (./note/java/LinkedListsBasic.md)
