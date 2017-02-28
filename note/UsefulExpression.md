@@ -6,3 +6,6 @@
 - recall that
 - impact sth
 - sequence of
+
+- Though this algorithm is not as optimal in some senses, it may be preferable in one sense: it's clean, simple and easy to understand. In a practical sense, this may be a superior way to implement the problem.
+- However if efficiency is very important, we can implement it a different way.
