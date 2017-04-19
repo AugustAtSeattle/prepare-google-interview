@@ -1,7 +1,8 @@
 ### Why am I writing these articles.
 - For dream. I am dreaming about working at Google
 - For self supervision. It makes me work efficiently and effectively. 
-<br/>(ps. efficient means doing things right, effective means doing right things).
+<br/> 
+(ps. efficient means doing things right, effective means doing right things).
 - For story. I would like to tell a story. Hey folks, I have done these before, even I fail, but so much fun.
 <br/><br/><br/> 
 
@@ -69,6 +70,7 @@
 
 ##### 2-9 Matrics
 1. [Code: Flip Bit To Win] (./code/src/FindPathInMatrics/Solution.java)
+
 <br/><br/><br/> 
 
 
@@ -76,12 +78,14 @@
 #### 3 Java
 1. [Basic Java Question] (./note/BasicJavaQuestion.md)
 2. Threads and Locks
+
 <br/><br/><br/> 
 
 
 
 #### 4 Express Yourself
 1. [Useful Expression] (./note/UsefulExpression.md)
+
 <br/><br/><br/> 
 
 
